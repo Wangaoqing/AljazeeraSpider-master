@@ -2,4 +2,4 @@
 
 scrapy crawl alj
 
-https://github.com/squarlhan/AljazeeraSpider
+update from:<href>https://github.com/squarlhan/AljazeeraSpider</href>
